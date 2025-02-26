@@ -1,0 +1,15 @@
+{
+  "name": "tp",
+  "version": "1.0.0",
+  "description": "TPC realizado durante a semana 4",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
